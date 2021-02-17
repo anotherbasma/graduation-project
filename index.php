@@ -6,7 +6,7 @@ include('includes/nav.php');
 ?>
     <main>
         <!--? slider Area Start -->
-        <div class="slider-area ">
+        <div class="slider-area">
             <div class="slider-active">
                 <!-- Single Slider -->
                 <div class="single-slider slider-height d-flex align-items-center slide-bg">
